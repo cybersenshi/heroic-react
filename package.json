@@ -1,10 +1,11 @@
 {
-  "name": "untitled",
+  "name": "HeroicWebcraft",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-router": "^4.1.0"
   },
   "devDependencies": {
     "gh-pages": "^0.12.0",
